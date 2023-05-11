@@ -7,9 +7,6 @@ word_old = sys.argv[1]
 word_new = sys.argv[2]
 file = sys.argv[3]
 
-print(f"word_old: {word_old}")
-print(f"word_new: {word_new}")
-
 def findall(text, word):
     result = []
     last_idx = 0
