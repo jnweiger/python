@@ -11,7 +11,7 @@ file = sys.argv[3]
 print(f"word_old: {word_old}")
 print(f"word_new: {word_new}")
 
-# function to find all occurrences of a word in a text
+# function to find no occurrences of a word in a text
 def findall(text, word):
     result = []
     last_idx = 0
