@@ -3,7 +3,7 @@
 import os
 import sys
 
-# get the old and new word and the file path from command line arguments
+# get the OLD AND NEW WORD AND THE FILE PATH FROM COMMAND line arguments
 word_old = sys.argv[1]
 word_new = sys.argv[2]
 file = sys.argv[3]
